@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/linojon/PowerSolitaireVR-web/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![](banner4.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Power Solitaire VR is a fun way to play the Klondike Solitaire card game in virtual reality. 
+Unique multiplayer mode is fast, competitive, immersive, social, and it’s a ton of fun! A seated VR experience.
 
-### Markdown
+# [](#header-1)About the Game
+Ordinary solitaire card games are fun, relaxing and a great office time-waster. Playing in virtual reality is even better!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+MULTIPLAYER MODE: But wait, there's more! Multiplayer Power Solitaire is fast and competitive. It’s immersive, 
+it’s social, and it’s a ton of fun! In this unique 2 or more player variation, you race to use your competitors' 
+foundation piles and compete to finish first. Play your cards onto anyone's piles, if you can beat them to it. 
+The action escalates quickly, becoming fast and competitive. Not your father's solitaire! 
 
-```markdown
-Syntax highlighted code block
+This is a seated (or standing) VR experience. 
 
-# Header 1
-## Header 2
-### Header 3
+CURRENT EARLY ACCESS BUILD IS SINGLE PLAYER ONLY, YOU'LL BE UPGRADED TO MULTIPLAYER AT NO ADDITIONAL COST
 
-- Bulleted
-- List
+This Early Access release is single-player only. Still, it's fully functional, you can play games and enjoy the virtual environment. 
+Your feedback is appreciated and we look forward to sharing the competitive multiplayer version soon. 
+Special Early Access pricing, cost will increase upon release.
 
-1. Numbered
-2. List
+# [](#header-1)Find Us on Steam (Early Access)
+[Steam Store page for Power Solitaire VR](http://store.steampowered.com/app/584850)
 
-**Bold** and _Italic_ and `Code` text
+![](Logo_SteamEarlyAccess_Stacked.png)
 
-[Link](url) and ![Image](src)
-```
+# [](#header-1)Join the Conversation on Facebook
+[Facebook page for Power Solitaire VR](https://www.facebook.com/powersolitairevr/)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/linojon/PowerSolitaireVR-web/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# [](#header-1)Follow us on Twitter
+[@PowerSolitaire](https://twitter.com/powersolitaire)
